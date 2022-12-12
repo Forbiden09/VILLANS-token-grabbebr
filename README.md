@@ -1,8 +1,5 @@
 > # __**VILLANS DISCORD TOKEN GRABBER**__<br>
 
-For people that constantly ask me to update it so it can decrypt the new Discord clients tokens, I already did it thanks to @NobodyWouldEverUseThis7
-I tested it and it is working, so the grabber already has already been updated, and upgraded, for me.
-Unfortunately, after being "skidded" every time I made programs, I don't really want to share my codes again, being generous was a loss of time, just make your codes by yourself, it will make you better at programming, good luck for the future, cordially, venax.
 
 **The program has been made for educational purposes, do not use it for malicious purposes.**<br>
 You only have to input your Discord webhook on line nine and compile it.<br>
